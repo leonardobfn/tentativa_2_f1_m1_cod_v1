@@ -1,0 +1,9 @@
+Quantile Regression Analysis of Deviance Table
+
+Model: RH ~ (Altitude) + sent + cost
+Joint Test of Equality of Slopes: tau in {  0.1 0.5 0.9  }
+
+  Df Resid Df F value    Pr(>F)    
+1  6     5034  10.562 1.102e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

@@ -1,0 +1,252 @@
+[33mcommit 604c7e649951345ec30b0cfe6d5120bc16fa101d[m[33m ([m[1;36mHEAD -> [m[1;32mcod_versao_2[m[33m, [m[1;31morigin/cod_versao_2[m[33m)[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Oct 10 13:06:33 2022 -0400
+
+    resultados
+
+[33mcommit 1679502f0835bc7140d9ffced6d62b22ef3f5d20[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Oct 3 12:22:05 2022 -0400
+
+    Resultado
+    
+    "#32x8va5 - Solução 1"
+
+[33mcommit 41900007a7064b3bbaa3c5f5eaa14b61e5e2d211[m[33m ([m[1;33mtag: v2_3[m[33m)[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Sep 26 10:10:40 2022 -0400
+
+    Resultados
+    
+    "#32x8va5 - Solução 1"
+
+[33mcommit 41026ccd46328a9b7dd5c221c0bbcdbbf629623a[m[33m ([m[1;33mtag: v2_2[m[33m)[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Sep 20 07:21:32 2022 -0400
+
+    delete
+
+[33mcommit 955cf1bc2a25ae3d0df7d29b80c96be2ebe43062[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Sep 20 07:21:06 2022 -0400
+
+    Resultado
+    
+    "#32c6p7f - solução 1"
+
+[33mcommit 491e4d4dea243e0b40852a2f8532fa5fd58e26cd[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Sep 19 16:21:44 2022 -0400
+
+    resultado
+    
+    "#32c0qh0 - Tentativa 2"
+
+[33mcommit cef12f50dd4cbe986f1167ca66fa2484c139ccd9[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Thu Sep 1 14:59:09 2022 -0400
+
+    atualização
+
+[33mcommit 728c56ffcc94cc4582079b3c74b378f3b7fd8e2c[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Aug 29 15:05:02 2022 -0400
+
+    atualização
+
+[33mcommit 57b53b735472d3e8902b69d099916398022b8b1a[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Aug 29 15:04:47 2022 -0400
+
+    Update code-estmation-s0.R
+
+[33mcommit ba8f61204147469d80ef1ee0cfdbd122cf5bc9e9[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Aug 29 15:04:33 2022 -0400
+
+    Update rmcem.R
+
+[33mcommit a182c7f926f3ffa869ddbb5f0344186b3bed1294[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Aug 29 15:04:21 2022 -0400
+
+    Update results_esp.R
+
+[33mcommit 912add95663a2fe9ed7ee6a7249bb688c418226c[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Aug 29 15:04:07 2022 -0400
+
+    Create 13-estimations_Manicoré_M2_2.rds
+    
+    "#CU-2zaryma - solução 1"
+
+[33mcommit 6cd588dfc0356fe61e183991afcf2d72941efbee[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Aug 29 15:03:39 2022 -0400
+
+    resultados
+    
+    "#CU-2zaryma - solução 1"
+
+[33mcommit 0c821896c4535e3f7d7d4c1bb757c923f879d1fe[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 24 15:12:57 2022 -0400
+
+    Create M3_2.rds
+    
+    "CU-2wup9pc - Gkumar(p=1,q=1); erro=10^(-5);N=500 - M3_2-Estimativas dos parâmetros M3_2"
+
+[33mcommit c00c36cdbd9169418256e2d0ac4a0ff5ed53a0b2[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 24 15:12:12 2022 -0400
+
+    Create M1_2.rds
+    
+    "CU-2wup9m1 - Gkumar(p=1,q=1); erro=10^(-3);N=500 - M1_2-Estimativas dos parâmetros do modelo M1_2 "
+
+[33mcommit 96751a76b728d123942d21dc11a5130134d82c41[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 24 15:11:07 2022 -0400
+
+    Estimativas dos parâmetros do modelo M2_2
+    
+    "CU-2wup99p - Gkumar(p=1,q=1); erro=10^(-4);N=500 - M2_2-Estimativas dos parâmetros do modelo M2_2"
+
+[33mcommit 752bc80c622911c771b593854c7304d471982603[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 24 15:05:58 2022 -0400
+
+    deletando
+
+[33mcommit bc5399398802f5aa3fab68162a91c79fe3753867[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 24 15:05:24 2022 -0400
+
+    deletando
+
+[33mcommit 9a271f85eda1fe3c22317bc283b258c9d5940c6d[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 24 15:04:50 2022 -0400
+
+    Update step_2-code-estimation.R
+
+[33mcommit f88316febd4add52471b469632811938ec3e541a[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 24 15:04:06 2022 -0400
+
+    Update code-estmation-s0.R
+
+[33mcommit e96337af31e5dc388465e40ff1ecb67e65d627ce[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Fri Aug 12 15:30:24 2022 -0300
+
+    Update step_3-code-analysis_estimation.R
+
+[33mcommit 008f95947a7d94789b03530e80a5aa31c008473c[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Fri Aug 12 15:30:01 2022 -0300
+
+    Update step_2-code-estimation.R
+
+[33mcommit 8ea68fb615383e90dbb9e41a091d7b9bf0c2444f[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Fri Aug 12 15:10:01 2022 -0300
+
+    Update gev_kuma.R
+
+[33mcommit e67fd2281dacf3e242708fea6fafc81a73a3ea3c[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Aug 9 12:42:36 2022 -0400
+
+    Update step_3-code-analysis_estimation.R
+    
+    "#CU-2xbt0k1 - análise da verossimilhança em tau"
+
+[33mcommit ed738fa5e4cb845f5c564b602e650d4c34b8cd5a[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 3 14:59:21 2022 -0300
+
+    atualização
+
+[33mcommit 49c3d3da3543822bd25f9c42b02811961b9f8a01[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Wed Aug 3 14:56:39 2022 -0300
+
+    atualização
+    
+    adaptando as funções para o modelo com tau estimado
+
+[33mcommit 3895f1138ff76c2a39e7edd5dd1f1997da937219[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Mon Aug 1 22:42:19 2022 -0300
+
+    atualização
+
+[33mcommit 1bf91b4193704aa031a6bb04fcdf3e1f5da02f01[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Sat Jul 30 19:21:41 2022 -0300
+
+    Update estimations.rds
+    
+    gkumar(1,1)
+
+[33mcommit e801360f189bb7680f1d1ecef9c22f4cb6cfdbdb[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Sat Jul 30 19:21:22 2022 -0300
+
+    atualização
+
+[33mcommit 2f382b7abc6d11383b0b0398dd24e707aa6e0207[m[33m ([m[1;33mtag: v1_1[m[33m, [m[1;31morigin/cod_versao_1[m[33m, [m[1;32mcod_versao_1[m[33m)[m
+Merge: 84771ec 462c89d
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 09:07:54 2022 -0400
+
+    Merge branch 'Gkumar(p=1,q=1)' into cod_versao_1
+
+[33mcommit 462c89db2081a0c66f0cc0312638fa314134642f[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 08:29:09 2022 -0400
+
+    Delete teste_interpolacao3.R
+
+[33mcommit e51ad027fecc8198a8c9d9bed4c804b42353defb[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 08:29:05 2022 -0400
+
+    Delete teste_interpolacao2.R
+
+[33mcommit 90cca9a02ea525c9f0e2c27caed725d03b5c2291[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 08:24:15 2022 -0400
+
+    Create interpolacao_marginal.R
+    
+     "CU-2v1f6uf - Interpolação marginal"
+
+[33mcommit 6ccf9e5fc2c3cf2f3c1a288764a0bd0ce1cc0bb1[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 08:23:46 2022 -0400
+
+    Create interpolcao_condicional.R
+    
+    "#CU-2v1f6ry-Interpolação condicional"
+
+[33mcommit 3dea3462611b810057f770a9b338b3bd85a578d6[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 07:49:01 2022 -0400
+
+    estimação dos parâmetros sem s0
+
+[33mcommit 024882bb9fc206e26ccb1e3869ebd8ff79cc5ee4[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 07:48:16 2022 -0400
+
+    Update step_3-code-analysis_estimation.R
+
+[33mcommit b87eac6bdd9129ad50ee084a211f38833660785d[m
+Author: leonardobfn <75333445+leonardobfn@users.noreply.github.com>
+Date:   Tue Jul 26 07:47:40 2022 -0400
+
+    atualização
+
+[33mcommit 24e8de75911e426650111759
